@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">GrayHaired Desktop icon</title>
+  <desc id="desc">A gray gradient monogram with a desktop screen.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f5f7fa"/>
+      <stop offset="1" stop-color="#6b7280"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#111827"/>
+  <rect x="34" y="46" width="188" height="126" rx="18" fill="url(#bg)"/>
+  <rect x="54" y="66" width="148" height="86" rx="10" fill="#1f2937"/>
+  <path d="M76 126c20-52 84-52 104 0" fill="none" stroke="#e5e7eb" stroke-width="16" stroke-linecap="round"/>
+  <path d="M90 113c16-28 60-28 76 0" fill="none" stroke="#9ca3af" stroke-width="10" stroke-linecap="round"/>
+  <rect x="104" y="172" width="48" height="22" rx="6" fill="#d1d5db"/>
+  <rect x="82" y="194" width="92" height="16" rx="8" fill="#9ca3af"/>
+</svg>
