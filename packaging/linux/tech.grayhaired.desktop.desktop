@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=GrayHaired Desktop
+Comment=Open GrayHaired Desktop in an embedded QtWebEngine browser
+Exec=grayhaired-desktop
+Icon=tech.grayhaired.desktop
+Terminal=false
+Categories=Network;Qt;
+StartupNotify=true
+StartupWMClass=GrayHaired Desktop
